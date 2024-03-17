@@ -14,12 +14,9 @@ Bitte schreiben Sie eine User Story und Akzeptanzkriterien für das gewünschte 
 Geben Sie die Ergebnisse im JSON-Format wie in diesem Beispiel definiert aus:
 
 {
-"Thema": "Automatisierung der Datenqualität",
-"Story": "Als Benutzer möchte ich in der Lage sein, ein neues Benutzerkonto zu erstellen, um auf das System zugreifen zu
-können.",
-"Criteria": "Wenn ich als Benutzer auf die Schaltfläche 'Konto erstellen' klicke, sollte ich aufgefordert werden, meine
-E-Mail-Adresse, mein Kennwort und mein Bestätigungskennwort einzugeben. Wenn ich auf die Schaltfläche 'Submit' klicke,
-sollte ich zur Anmeldeseite weitergeleitet werden."
+    "Thema": "Automatisierung der Datenqualität",
+    "Story": "Als Benutzer möchte ich in der Lage sein, ein neues Benutzerkonto zu erstellen, um auf das System zugreifen zu können.",
+    "Criteria": "Wenn ich als Benutzer auf die Schaltfläche 'Konto erstellen' klicke, sollte ich aufgefordert werden, meine E-Mail-Adresse, mein Kennwort und mein Bestätigungskennwort einzugeben. Wenn ich auf die Schaltfläche 'Submit' klicke, sollte ich zur Anmeldeseite weitergeleitet werden."
 }
 
 # INPUT:
