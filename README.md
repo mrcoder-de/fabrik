@@ -25,6 +25,74 @@ Please don't expect to find the original tools here!
 Instead, I plan to simply host the prompts as static files in an NGINX server (in a separate project) in order to make them more accessible
 for various use cases.
 
+# Demo
+
+see [DEMO.md](DEMO.md)
+
+# Prompt Überblick
+
+Hier ein überblick alle Prompts auf Deutsch:
+
+- Agilität geschichte
+- KI
+- Behauptung analysieren
+- Vorfall analysieren
+- Papier analysieren
+- Prosa analysieren
+- Prosa analysieren json
+- Geistlichen Text analysieren
+- Analysieren der technischen Auswirkungen
+- Bedrohungsbericht analysieren
+- Trends im Bedrohungsbericht analysieren
+- Vertrag prüfen
+- Text bereinigen
+- vergleichen und kontrastieren
+- Aphorismen erstellen
+- (Kommandozeile) Befehl erstellen
+- Präsi erstellen
+- Logo erstellen
+- Markmap-Visualisierung erstellen
+- Mermaid-Visualisierung erstellen
+- Mikro-Zusammenfassung erstellen
+- Netzwerk-Bedrohungslandschaft erstellen
+- NPC erstellen (Rollenspiel)
+- Zusammenfassung erstellen
+- Bedrohungsmodell erstellen
+- Video-Kapitel erstellen
+- Visualisierung erstellen
+- Code erklären
+- Dokumente erklären
+- Algorithmus-Update-Empfehlungen extrahieren
+- Weisheit aus Artikel extrahieren
+- Ideen extrahieren
+- Hauptidee extrahieren
+- Muster extrahieren
+- PoC extrahieren
+- Vorhersagen extrahieren
+- Empfehlungen extrahieren
+- Referenzen extrahieren
+- Sponsoren extrahieren
+- Video-ID extrahieren
+- Weisheit extrahieren
+- Versteckte Botschaft finden
+- Akademisches Schreiben verbessern
+- Prompt verbessern
+- Schreiben verbessern
+- Beschriften und bewerten
+- Philokapseln
+- Anleitung geben
+- Inhalt bewerten
+- Wert bewerten
+- Zusammenfassen
+- Git-Änderungen zusammenfassen
+- Mikro Zusammenfassung
+- Newsletter zusammenfassen
+- Pull-Requests zusammenfassen
+- RPG-sitzung zusammenfassen
+- Aufsatz schreiben
+- Pull-Request schreiben
+- SemGrep-Regel schreiben
+
 # Contribution
 
 I would have preferred to contribute directly to the project, but I don't want to be forced to use the fabric application. I have other
