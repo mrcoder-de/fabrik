@@ -1,3 +1,8 @@
+"""
+Simple tools for cleaning up during development.
+Run from the top-level directory of the project.
+"""
+
 import os
 
 
