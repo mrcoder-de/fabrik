@@ -11,7 +11,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 <p class="align center">
-<h4><code>fabrik</code> ist eine deutsche Übersetzung des beliebten Open-Source-Werkzeug <code><a href="https://github.com/danielmiessler/fabric">fabric<a></a></code> von Daniel Miessler </h4>
+<code>fabrik</code> ist eine deutsche Übersetzung des beliebten Open-Source-Werkzeug <code><a href="https://github.com/danielmiessler/fabric">fabric</a></code> von Daniel Miessler 
 </p>
 
 </div>
@@ -19,8 +19,8 @@
 # Just the Prompts
 
 Fabrik is a German translation of the prompts from the popular [fabric](https://github.com/danielmiessler/fabric) tool by Daniel Miessler.
-I'm not trying to duplicate the functionality of the application. I'm just interested in the excellent prompts. Please don't expect to find
-any python code here!
+I'm not trying to duplicate the functionality of the application. I'm just interested in the excellent prompts. 
+Please don't expect to find the original tools here!
 
 Instead, I plan to simply host the prompts as static files in an NGINX server (in a separate project) in order to make them more accessible
 for various use cases.
