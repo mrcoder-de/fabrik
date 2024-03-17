@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height:1.6;
+    padding: 0;
+    margin: 0;
+    background: #f2f2f2;
+}
+
+#sidebar {
+    float: left;
+    width: 20%; /* You can change this as per your requirement*/
+    /*height: 100vh; !* This will make the sidebar of full height *!*/
+    background: #333;
+    color: #fff;
+    padding: 20px;
+}
+#sidebar a {
+    color: #fff;
+}
+.markdown_preview {
+    margin-left: 5px;
+}
+
+#content {
+    float: right;
+    width: 75%; /* This width plus the sidebar width need to be equal to 100% */
+    padding: 20px;
+    background: #f2f2f2;
+}
